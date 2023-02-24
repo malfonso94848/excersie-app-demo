@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excersie-app-demo/static/css/main.073c9b0a.css",
+    "main.js": "/excersie-app-demo/static/js/main.2d14ccb2.js",
+    "static/js/787.e5b5f8c7.chunk.js": "/excersie-app-demo/static/js/787.e5b5f8c7.chunk.js",
+    "index.html": "/excersie-app-demo/index.html",
+    "main.073c9b0a.css.map": "/excersie-app-demo/static/css/main.073c9b0a.css.map",
+    "main.2d14ccb2.js.map": "/excersie-app-demo/static/js/main.2d14ccb2.js.map",
+    "787.e5b5f8c7.chunk.js.map": "/excersie-app-demo/static/js/787.e5b5f8c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d14ccb2.js"
+  ]
+}
